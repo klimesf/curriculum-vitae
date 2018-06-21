@@ -179,4 +179,6 @@ TSWLatexianTemp*
 # KBibTeX
 *~[0-9]*
 
-.DS_*
+.DS_Store
+*.icloud
+
